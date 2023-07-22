@@ -1,0 +1,15 @@
+.thumbnail img {
+    
+    height: 250px; 
+    width: 350px;
+  }
+  .caption{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .ashor{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+  }
+  
